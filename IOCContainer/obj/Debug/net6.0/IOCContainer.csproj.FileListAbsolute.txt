@@ -1,0 +1,14 @@
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\bin\Debug\net6.0\IOCContainer.exe
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\bin\Debug\net6.0\IOCContainer.deps.json
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\bin\Debug\net6.0\IOCContainer.runtimeconfig.json
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\bin\Debug\net6.0\IOCContainer.dll
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\bin\Debug\net6.0\IOCContainer.pdb
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.AssemblyInfoInputs.cache
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.AssemblyInfo.cs
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.dll
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\refint\IOCContainer.dll
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.pdb
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\IOCContainer.genruntimeconfig.cache
+C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\obj\Debug\net6.0\ref\IOCContainer.dll
