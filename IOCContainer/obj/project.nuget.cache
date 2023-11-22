@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DqkCZD40OrlBycudI3l71EBemPWwWfZbbXfIYjLGUjTeiPA1E6Y8+oj55mkOOvdYNgn9nS4oLi4XH9Yv18XnSg==",
+  "dgSpecHash": "n/oRtZdNDJ8u135ndznJ6iTkYC+iT/MRxksPjF837+OK2xexggNjea2YqWWvtH6UBs/6aeftygUlKmPL53AVVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Алексей Замятин\\github\\IOCContainer\\IOCContainer\\IOCContainer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Users\\Alexe\\github\\IOCContainer\\IOCContainer\\IOCContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alexe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alexe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Alexe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

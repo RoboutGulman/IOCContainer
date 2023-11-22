@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOCContainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d30078f4645e6b790b35aee4c072dcf097a90be3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOCContainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOCContainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

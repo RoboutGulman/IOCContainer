@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IOCContainer
-build_property.ProjectDir = C:\Users\Алексей Замятин\github\IOCContainer\IOCContainer\
+build_property.ProjectDir = E:\Users\Alexe\github\IOCContainer\IOCContainer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
